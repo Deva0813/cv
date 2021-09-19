@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    margin: 0 auto 0 auto;
+    font-family:'Sacramento', cursive;
+    font-size: 500%;
+    padding-top: 10%;
+    color: #66BFBF;
+     line-height: 2;
+}
+h2 {
+    font-family:'Merriweather', serif;
+    font-size: 2rem ;
+    margin-top: 30px;
+    color: #66BFBF;
+    font-weight: normal;
+      
+}
+
+h3 {
+    font-family:'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top {
+    background:#e4fcff;
+
+}
+
+.mid {
+    background-color: rgb(209, 255, 240);
+}
+.bottom {
+    background-color: rgb(147, 255, 208);
+    padding-bottom: 16px;
+
+}
+
+.mount {
+    width: 100%;
+}
+.prof {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+}
+.mail {
+    height: 5%;
+    width: 5%;
+    padding: 2%;
+}
+.linkedin {
+
+    height: 50px;
+    width: 50px;
+    padding: 2%;
+    padding-right: 0.5% ;
+}
+.insta {
+    height: 50px;
+    width: 50px;
+    padding: 2%;
+}
+.reddit {
+    height: 50px;
+    width: 50px;
+    padding: 2%;
+    padding-left: 0.5% ;
+}
+
+.botc {
+    position: absolute;
+    top: 100px;
+
+}
+.topc {
+    position: absolute;
+    top: 0px;
+    right: 10%;
+    size: 110%;
+}
+a {
+    color: #11999E;
+}
+.skill-1 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-2 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: right;    
+}
+.web {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    padding-top: 10px;
+    
+}
+.cyber {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
