@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    margin: 0 auto 0 auto;
+    font-family:'Sacramento', cursive;
+    font-size: 500%;
+    padding-top: 10%;
+    color: #66BFBF;
+     line-height: 2;
+}
+h2 {
+    font-family:'Merriweather', serif;
+    font-size: 2rem ;
+    margin-top: 30px;
+    color: #66BFBF;
+    font-weight: normal;
+      
+}
+
+h3 {
+    font-family:'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top {
+    background: #eaf6f6;
+
+}
+
+.mid {
+    background-color: unset;
+}
+.bottom {
+    background-color: #66bfbf;
+    padding-bottom: 16px;
+
+}
+
+.mount {
+    width: 100%;
+}
+.prof {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    padding-top: 5%;
+}
+.mail {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+.linkedin {
+
+    height: 50px;
+    width: 50px;
+    padding: 2%;
+    padding-right: 0.5% ;
+}
+.insta {
+    height: 50px;
+    width: 50px;
+    padding: 2%;
+}
+.reddit {
+    height: 50px;
+    width: 50px;
+    padding: 2%;
+    padding-left: 0.5% ;
+}
+
+.botc {
+    position: absolute;
+    top: 100px;
+
+}
+.topc {
+    position: absolute;
+    top: 0px;
+    right: 10%;
+    size: 110%;
+}
+a {
+    color: #11999E;
+}
+.skill-1 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-2 {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;    
+}
+.web {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    padding-top: 10px;
+    
+}
+.cyber {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+}
+.profile {
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    line-height: 2;
+    padding-bottom: 20px;
+}
+
+p {
+    color:#40514E;
+}
+hr {
+    border-style: dotted none none none;
+    border-color: #40514E;
+    border-width: 10px;
+   width: 7%;
+}
+.copy {
+    color: #eaf6f6;
+}
