@@ -28,15 +28,15 @@ h3 {
 }
 
 .top {
-    background:#e4fcff;
+    background: #eaf6f6;
 
 }
 
 .mid {
-    background-color: rgb(209, 255, 240);
+    background-color: unset;
 }
 .bottom {
-    background-color: rgb(147, 255, 208);
+    background-color: #66bfbf;
     padding-bottom: 16px;
 
 }
@@ -48,11 +48,12 @@ h3 {
     height: 200px;
     width: 200px;
     padding: 10px;
+    padding-top: 5%;
 }
 .mail {
-    height: 5%;
-    width: 5%;
-    padding: 2%;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
 }
 .linkedin {
 
@@ -97,7 +98,7 @@ a {
     width: 50%;
     margin: 100px auto 100px auto;
     line-height: 2;
-    text-align: right;    
+    text-align: left;    
 }
 .web {
     width: 25%;
@@ -112,4 +113,23 @@ a {
     margin-left: 30px;
     margin-bottom: 40px;
     padding-top: 10px;
+}
+.profile {
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+p {
+    color:#40514E;
+}
+hr {
+    border-style: dotted none none none;
+    border-color: #40514E;
+    border-width: 10px;
+   width: 7%;
+}
+.copy {
+    color: #eaf6f6;
 }
